@@ -1,0 +1,17 @@
+
+ 
+INSERT INTO user (username, password) VALUES
+  ('shubham', 'shubham123' ),
+  ('shubham2', 'shubham' );
+  
+INSERT INTO ROLE (ID, role) VALUES
+  (1,'ADMIN'  ),
+  (2,'USER' );
+
+
+--INSERT INTO COUNTRY_REPORT (ID,REPORT_ID, NAME, POPULATION) VALUES (0,1, 'India', 10000);
+
+
+--INSERT INTO COUNTRY_REPORT (REPORT_ID, NAME, POPULATION) VALUES (1, 'India', 10000);
+
+--INSERT INT-                         O STATE_REPORT (COUNTRY_ID,REPORT_ID, NAME,CAPITAL, TOTAL_DISTRICTS,POPULATION) VALUES (1,1, 'MH','Mumbai', 10,10000);
